@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2021-06-21'
+title: 'Operations Support'
+company: 'Independent Electoral and Boundaries Commission'
+location: 'Nanyuki,Kenya'
+range: 'June- September 2021'
+
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS
