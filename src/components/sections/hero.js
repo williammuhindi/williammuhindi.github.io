@@ -60,13 +60,14 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">William Maina.</h2>;
+  const three = <h3 className="big-heading">Turning raw data into actionable insights.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
+        I’m a Data Scientist specializing in transforming and occasionally vizualizing complex
+        datasets into actionable insights .Currently, I'm focused on developing interpretable, business-driven analytics that turn
+        raw information into strategic advantages
         at{' '}
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
